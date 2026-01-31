@@ -1,5 +1,5 @@
 # MALLORN-solution-sigrid
-An overview of my third place solution for the MALLORN data challenge <br>
+An overview of my third place solution for the MALLORN data challenge. A more detailed write-up will be available on Kaggle: (link to come) <br>
 
 The different directories contain the following:
 
